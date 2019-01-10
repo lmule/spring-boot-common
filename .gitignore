@@ -1,0 +1,45 @@
+# Linux
+# backup files
+*~
+
+# Windows
+# thumbnails
+Thumbs.db
+
+# Mac OS X
+# metadata
+.DS_Store
+# thumbnails
+._*
+
+# GIT
+.git/
+
+# Java
+*.class
+# packages
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.settings/
+.buildpath
+.classpath
+.project
+
+# Logging
+*.log
+logs/
+
+# jME (binaries)
+*.so
+
+# intellij
+.idea/
+*.iml
+out/
+
+# Maven
+log/
+target/
