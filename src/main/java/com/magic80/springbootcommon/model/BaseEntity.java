@@ -1,7 +1,7 @@
-package com.magic80.springBootCommon.model;
+package com.magic80.springbootcommon.model;
 
-import com.magic80.springBootCommon.annotation.AutoCreateAnnotation;
-import com.magic80.springBootCommon.annotation.AutoUpdateAnnotation;
+import com.magic80.springbootcommon.annotation.AutoCreateAnnotation;
+import com.magic80.springbootcommon.annotation.AutoUpdateAnnotation;
 
 import javax.persistence.Id;
 import java.io.Serializable;

@@ -1,4 +1,4 @@
-package com.magic80.springBootCommon.exception;
+package com.magic80.springbootcommon.exception;
 
 public class RequestParameterException extends BaseBizException {
 

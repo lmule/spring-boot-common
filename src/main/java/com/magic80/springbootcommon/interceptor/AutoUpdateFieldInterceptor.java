@@ -1,7 +1,7 @@
-package com.magic80.springBootCommon.interceptor;
+package com.magic80.springbootcommon.interceptor;
 
-import com.magic80.springBootCommon.annotation.AutoCreateAnnotation;
-import com.magic80.springBootCommon.annotation.AutoUpdateAnnotation;
+import com.magic80.springbootcommon.annotation.AutoCreateAnnotation;
+import com.magic80.springbootcommon.annotation.AutoUpdateAnnotation;
 import org.apache.ibatis.executor.Executor;
 import org.apache.ibatis.mapping.MappedStatement;
 import org.apache.ibatis.mapping.SqlCommandType;

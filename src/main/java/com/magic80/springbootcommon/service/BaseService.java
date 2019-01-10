@@ -1,7 +1,7 @@
-package com.magic80.springBootCommon.service;
+package com.magic80.springbootcommon.service;
 
-import com.magic80.springBootCommon.dao.BaseDao;
-import com.magic80.springBootCommon.model.BaseEntity;
+import com.magic80.springbootcommon.dao.BaseDao;
+import com.magic80.springbootcommon.model.BaseEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import tk.mybatis.mapper.entity.Example;
 

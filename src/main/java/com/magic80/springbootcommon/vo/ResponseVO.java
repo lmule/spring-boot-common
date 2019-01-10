@@ -1,4 +1,4 @@
-package com.magic80.springBootCommon.vo;
+package com.magic80.springbootcommon.vo;
 
 public class ResponseVO {
 

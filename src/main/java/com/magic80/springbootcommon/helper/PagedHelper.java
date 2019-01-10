@@ -1,10 +1,10 @@
-package com.magic80.springBootCommon.helper;
+package com.magic80.springbootcommon.helper;
 
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
-import com.magic80.springBootCommon.helper.page.PagedMutipleTableCountFunction;
-import com.magic80.springBootCommon.helper.page.PagedMutipleTableFunction;
-import com.magic80.springBootCommon.helper.page.PagedSingleTableFunction;
+import com.magic80.springbootcommon.helper.page.PagedMutipleTableCountFunction;
+import com.magic80.springbootcommon.helper.page.PagedMutipleTableFunction;
+import com.magic80.springbootcommon.helper.page.PagedSingleTableFunction;
 
 import java.util.HashMap;
 import java.util.List;

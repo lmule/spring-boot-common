@@ -1,4 +1,4 @@
-package com.magic80.springBootCommon.dao;
+package com.magic80.springbootcommon.dao;
 
 import tk.mybatis.mapper.annotation.RegisterMapper;
 import tk.mybatis.mapper.common.Mapper;

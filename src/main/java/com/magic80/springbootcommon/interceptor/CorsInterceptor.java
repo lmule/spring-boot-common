@@ -1,4 +1,4 @@
-package com.magic80.springBootCommon.interceptor;
+package com.magic80.springbootcommon.interceptor;
 
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 

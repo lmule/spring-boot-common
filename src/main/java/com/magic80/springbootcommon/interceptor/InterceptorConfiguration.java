@@ -1,4 +1,4 @@
-package com.magic80.springBootCommon.interceptor;
+package com.magic80.springbootcommon.interceptor;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;

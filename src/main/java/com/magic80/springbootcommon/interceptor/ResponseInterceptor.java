@@ -1,10 +1,10 @@
-package com.magic80.springBootCommon.interceptor;
+package com.magic80.springbootcommon.interceptor;
 
 
-import com.magic80.springBootCommon.exception.BaseBizException;
-import com.magic80.springBootCommon.exception.InternalServerException;
-import com.magic80.springBootCommon.exception.RequestParameterException;
-import com.magic80.springBootCommon.helper.ResponseHelper;
+import com.magic80.springbootcommon.exception.BaseBizException;
+import com.magic80.springbootcommon.exception.InternalServerException;
+import com.magic80.springbootcommon.exception.RequestParameterException;
+import com.magic80.springbootcommon.helper.ResponseHelper;
 import org.springframework.core.MethodParameter;
 import org.springframework.http.MediaType;
 import org.springframework.http.server.ServerHttpRequest;

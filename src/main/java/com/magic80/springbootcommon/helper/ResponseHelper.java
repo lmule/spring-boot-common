@@ -1,7 +1,7 @@
-package com.magic80.springBootCommon.helper;
+package com.magic80.springbootcommon.helper;
 
-import com.magic80.springBootCommon.exception.BaseBizException;
-import com.magic80.springBootCommon.vo.ResponseVO;
+import com.magic80.springbootcommon.exception.BaseBizException;
+import com.magic80.springbootcommon.vo.ResponseVO;
 
 public class ResponseHelper {
 

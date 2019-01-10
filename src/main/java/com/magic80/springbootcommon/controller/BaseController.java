@@ -1,8 +1,8 @@
-package com.magic80.springBootCommon.controller;
+package com.magic80.springbootcommon.controller;
 
-import com.magic80.springBootCommon.helper.PagedHelper;
-import com.magic80.springBootCommon.model.BaseEntity;
-import com.magic80.springBootCommon.service.BaseService;
+import com.magic80.springbootcommon.helper.PagedHelper;
+import com.magic80.springbootcommon.model.BaseEntity;
+import com.magic80.springbootcommon.service.BaseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,6 +1,6 @@
-package com.magic80.springBootCommon.helper.page;
+package com.magic80.springbootcommon.helper.page;
 
-import com.magic80.springBootCommon.model.BaseEntity;
+import com.magic80.springbootcommon.model.BaseEntity;
 
 import java.util.List;
 import java.util.Map;

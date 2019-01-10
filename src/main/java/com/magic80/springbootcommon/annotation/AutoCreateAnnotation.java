@@ -1,4 +1,4 @@
-package com.magic80.springBootCommon.annotation;
+package com.magic80.springbootcommon.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
@@ -7,6 +7,6 @@ import java.lang.annotation.Target;
 
 @Retention(RetentionPolicy.RUNTIME)
 @Target({ElementType.FIELD})
-public @interface AutoUpdateAnnotation {
+public @interface AutoCreateAnnotation {
     String value() default "";
 }

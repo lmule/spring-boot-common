@@ -1,4 +1,4 @@
-package com.magic80.springBootCommon.helper.page;
+package com.magic80.springbootcommon.helper.page;
 
 import java.util.Map;
 

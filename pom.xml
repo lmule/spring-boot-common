@@ -4,7 +4,7 @@
 
     <groupId>com.magic80</groupId>
     <artifactId>spring-boot-common</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <parent>
