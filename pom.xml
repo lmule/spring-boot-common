@@ -4,7 +4,7 @@
 
     <groupId>com.magic80</groupId>
     <artifactId>spring-boot-common</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <packaging>jar</packaging>
 
     <parent>
@@ -95,7 +95,7 @@
         <connection>scm:git:git@github.com:lmule/spring-boot-common.git</connection>
         <developerConnection>scm:git:git@github.com:lmule/spring-boot-common.git</developerConnection>
         <url>git@github.com:lmule/spring-boot-common.git</url>
-        <tag>spring-boot-common-0.0.1</tag>
+        <tag>spring-boot-common-0.0.3</tag>
     </scm>
     <build>
         <sourceDirectory>${project.basedir}/src/main/java</sourceDirectory>
@@ -109,10 +109,6 @@
             </resource>
         </resources>
         <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
